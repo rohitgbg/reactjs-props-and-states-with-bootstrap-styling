@@ -117,8 +117,7 @@ class App extends Component {
                 <p className="mb-0">Whenever you delete following person boxes, color of this box get changes. Delete each person to see color change.</p>
                 <p className="mb-0"> To delete click on person name </p>
                 <p className="mb-0"> To change the name, just type on input fields </p>
-                <br/>
-                <button className="btn btn-primary btn-lg"   role="button" onClick={ (e) => this.clickHandler()}>Click me</button>
+                <br/> <button className="btn btn-primary btn-lg"   role="button" onClick={ (e) => this.clickHandler()}>Click me</button>
              </div>
                   
             </div>
