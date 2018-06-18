@@ -129,8 +129,8 @@ class App extends Component {
               </div>
             </div>
           </div>
-          <div class="alert alert-dismissible alert-light">
-            <p class="text-center">Developed by <a target="_blank" href="https://github.com/rohitgbg"> Rohith GB </a> </p>
+          <div className="alert alert-dismissible alert-light">
+            <p className="text-center">Developed by <a target="_blank" href="https://github.com/rohitgbg"> Rohith GB </a> </p>
           </div>
       </div>
     );
